@@ -12,7 +12,7 @@ labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
-  - type: checkboxes
+  type: checkboxes
   id: sub-area
   attributes:
     label: Most appropriate sub-area of p5.js?
