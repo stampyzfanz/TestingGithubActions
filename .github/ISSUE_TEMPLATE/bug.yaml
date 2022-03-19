@@ -15,7 +15,7 @@ body:
 - type: checkboxes
   id: sub-area
   attributes:
-    label: Most appropriate sub-area of p5.js?
+    label: Most appropriate sub-area of TestingGithubActions?
     description: You may select more than one.
     options:
       - label: Accessibility
