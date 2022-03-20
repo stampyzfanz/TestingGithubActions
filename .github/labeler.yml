@@ -1,6 +1,6 @@
 # Add/remove 'critical' label if issue contains the words 'urgent' or 'critical'
 accessibility:
-    - '[X] Accessibility'
+    - '\[X\] Accessibility'
 almostworks:
     - 'Accessibility'
 consecutive:
