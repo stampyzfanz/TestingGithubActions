@@ -1,7 +1,7 @@
 # Add/remove 'critical' label if issue contains the words 'urgent' or 'critical'
 accessibility:
     - '\[X\] Accessibility'
-almostworks:
-    - 'Accessibility'
-consecutive:
-    - 'a b c'
+'area:build':
+    - '\[X\] Build'
+'area:core':
+    - '\[X\] Core'
