@@ -3,3 +3,5 @@ accessibility:
     - '[X] Accessibility'
 almostworks:
     - 'Accessibility'
+consecutive:
+    - 'a b c'
