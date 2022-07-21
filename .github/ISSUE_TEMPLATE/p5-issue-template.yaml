@@ -28,8 +28,8 @@ body:
       - label: WebGL
       - label: Build tools and processes
       - label: Unit Testing
-      - label: Localization
       - label: Friendly error system 
+      - label: Localization
       - label: Other (specify if possible)
 - type: textarea
   attributes:
