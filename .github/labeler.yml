@@ -1,5 +1,5 @@
 'area:Accessibility':
-    - '\[X\] Accessibility (Web Accessibility)'
+    - '\[X\] Accessibility \(Web Accessibility\)'
 'area:Build Process':
     - '\[X\] Build tools and processes'
 'area:Color':
@@ -17,7 +17,7 @@
 'area:Image':
     - '\[X\] Image'
 'area:IO':
-    - '\[X\] IO (Input/Output)'
+    - '\[X\] IO \(Input/Output\)'
 'Localization':
     - '\[X\] Localization'
 'area:Math':
