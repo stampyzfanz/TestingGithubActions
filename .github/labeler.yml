@@ -1,7 +1,5 @@
 "area:Accessibility":
   - '\[X\] Accessibility \(Web Accessibility\)'
-"Build Process":
-  - '\[X\] Build tools and processes'
 "area:Color":
   - '\[X\] Color'
 "area:Core":
@@ -12,21 +10,23 @@
   - '\[X\] DOM'
 "area:Events":
   - '\[X\] Events'
-"Friendly-Errors":
-  - '\[X\] Friendly error system'
 "area:Image":
   - '\[X\] Image'
 "area:IO":
   - '\[X\] IO \(Input/Output\)'
-"Localization":
-  - '\[X\] Localization'
 "area:Math":
   - '\[X\] Math'
-"Unit Testing":
-  - '\[X\] Unit Testing'
 "area:Typography":
   - '\[X\] Typography'
 "area:Utilities":
   - '\[X\] Utilities'
 "area:WebGL":
   - '\[X\] WebGL'
+"Build Process":
+  - '\[X\] Build tools and processes'
+"Unit Testing":
+  - '\[X\] Unit Testing'
+"Localization":
+  - '\[X\] Localization'
+"Friendly Errors":
+  - '\[X\] Friendly error system'
