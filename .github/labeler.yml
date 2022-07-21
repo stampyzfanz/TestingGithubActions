@@ -1,26 +1,26 @@
-"area:Accessibility":
+"Area:Accessibility":
   - '\[X\] Accessibility \(Web Accessibility\)'
-"area:Color":
+"Area:Color":
   - '\[X\] Color'
-"area:Core":
+"Area:Core":
   - '\[X\] Core'
-"area:Data":
+"Area:Data":
   - '\[X\] Data'
-"area:DOM":
+"Area:DOM":
   - '\[X\] DOM'
-"area:Events":
+"Area:Events":
   - '\[X\] Events'
-"area:Image":
+"Area:Image":
   - '\[X\] Image'
-"area:IO":
+"Area:IO":
   - '\[X\] IO \(Input/Output\)'
-"area:Math":
+"Area:Math":
   - '\[X\] Math'
-"area:Typography":
+"Area:Typography":
   - '\[X\] Typography'
-"area:Utilities":
+"Area:Utilities":
   - '\[X\] Utilities'
-"area:WebGL":
+"Area:WebGL":
   - '\[X\] WebGL'
 "Build Process":
   - '\[X\] Build tools and processes'
